@@ -6,6 +6,12 @@ on:
       # 4月1日00:00(UTC)に実行
     - cron: "0 0 15 3 *"
 
+env:
+  driveFileId: 1-7RpPdsAdUNTPmB6FuMvIj3nDkVseSrx
+  buildFolder: build
+  phpFolder: Temp/artifact
+  modelFolder: Temp/model
+
 jobs:
   scraping-syllabus:
     runs-on: ubuntu-latest
@@ -45,7 +51,7 @@ jobs:
 
           # アップロード
           curl -X PATCH \
-          "https://www.googleapis.com/upload/drive/v3/files/1-7RpPdsAdUNTPmB6FuMvIj3nDkVseSrx?uploadType=multipart" \
+          "https://www.googleapis.com/upload/drive/v3/files/${{ env.driveFileId }}?uploadType=multipart" \
           -H "Authorization: Bearer ${TOKEN}" \
           -F 'metadata={"name": "download_syllabus.tar.xz"};type=application/json' \
           -F "file=@download_syllabus.tar.xz"
@@ -56,6 +62,7 @@ jobs:
           name: download_syllabus.tar.xz
           path: download_syllabus.tar.xz
 
+
   generate-xml:
     needs: scraping-syllabus
     runs-on: ubuntu-latest
@@ -65,16 +72,16 @@ jobs:
         uses: actions/checkout@v3
 
       # ダウンロード
-      - run: mkdir -p Temp/artifact
+      - run: mkdir -p ${{ env.phpFolder }}
       - uses: actions/download-artifact@v3
         with:
           name: download_syllabus.tar.xz
-          path: Temp/artifact/
+          path: ${{ env.phpFolder }}/
 
       # 展開
       - name: Extract
         run: tar -Jxvf download_syllabus.tar.xz
-        working-directory: Temp/artifact
+        working-directory: ${{ env.phpFolder }}
 
       # 環境構築
       - name: Setup .NET Core SDK
@@ -85,8 +92,8 @@ jobs:
       # XMLファイルの出力
       - name: run
         run: |
-          dotnet build ./syllabus_analysis/PhpToXml.csproj 
-          dotnet ./syllabus_analysis/bin/Debug/net6.0/PhpToXml.dll ./Temp/artifact ./meikoudai_syllaverse/Assets/StreamingAssets/xml
+          dotnet build ./syllabus_analysis/PhpToXml/PhpToXml.csproj 
+          dotnet ./syllabus_analysis/PhpToXml/bin/Debug/net6.0/PhpToXml.dll ./${{ env.phpFolder }} ./meikoudai_syllaverse/Assets/StreamingAssets/xml
 
         # アーティファクトのアップロード
       - uses: actions/upload-artifact@v3
@@ -104,15 +111,15 @@ jobs:
         uses: actions/checkout@v3
 
       # PHPファイルのダウンロード
-      - run: mkdir -p Temp/artifact
+      - run: mkdir -p ${{ env.phpFolder }}
       - uses: actions/download-artifact@v3
         with:
           name: download_syllabus.tar.xz
-          path: Temp/artifact/
+          path: ${{ env.phpFolder }}
       # 展開
       - name: Extract
         run: tar -Jxvf download_syllabus.tar.xz
-        working-directory: Temp/artifact
+        working-directory: ${{ env.phpFolder }}
 
       # 環境構築
       - name: Setup Python
@@ -127,20 +134,22 @@ jobs:
       - name: model download
         run: |
           sudo apt install aria2
-          aria2c -x5 -o ./Temp/jawiki.doc2vec.dmpv300d.tar.bz2 https://www.dropbox.com/s/raw/njez3f1pjv9i9xj/jawiki.doc2vec.dmpv300d.tar.bz2
-          bzip2 -d ./Temp/jawiki.doc2vec.dmpv300d.tar.bz2
-          tar -xvf ./Temp/jawiki.doc2vec.dmpv300d.tar -C ./Temp
+          mkdir -p ${{ env.modelFolder }}
+          aria2c -x5 -o ${{ env.modelFolder }}/jawiki.doc2vec.dmpv300d.tar.bz2 https://www.dropbox.com/s/raw/njez3f1pjv9i9xj/jawiki.doc2vec.dmpv300d.tar.bz2
+          bzip2 -d ${{ env.modelFolder }}/jawiki.doc2vec.dmpv300d.tar.bz2
+          tar -xvf ${{ env.modelFolder }}/jawiki.doc2vec.dmpv300d.tar -C ${{ env.modelFolder }}
       # Pythonスクリプト実行
       - name: run
         run: |
           mkdir -p meikoudai_syllaverse/Assets/StreamingAssets/csv
-          python syllabus_analysis/doc2vec.py Temp/jawiki.doc2vec.dmpv300d.model Temp/artifact meikoudai_syllaverse/Assets/StreamingAssets/csv/feature.csv
+          python syllabus_analysis/doc2vec.py ${{ env.modelFolder }}/jawiki.doc2vec.dmpv300d.model ${{ env.phpFolder }} meikoudai_syllaverse/Assets/StreamingAssets/csv/feature.csv
 
         # アーティファクトのアップロード
       - uses: actions/upload-artifact@v3
         with:
           name: csv
           path: meikoudai_syllaverse/Assets/StreamingAssets/csv
+
 
   commit-push:
     needs: [generate-xml, doc2vec]
@@ -175,3 +184,43 @@ jobs:
           git commit -m "github actions"
           git push origin ${{ github.ref_name }}
       ##########################
+
+
+  build:
+    name: Run the WebGL build
+    needs: commit-push
+    runs-on: ubuntu-latest
+    steps:
+      # actions/checkout@v2 を利用して作業ディレクトリに
+      # Unity プロジェクトの中身をダウンロードしてくる
+      - name: Check out my unity project.
+        uses: actions/checkout@v3
+
+      # GameCI の Builder を利用して、
+      # Unity プロジェクトのビルドを実行する
+      - name: Run the WebGL build
+        uses: game-ci/unity-builder@v2
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+        with:
+          # 今回は WebGL ビルドを行いたいため WebGL を指定する
+          targetPlatform: WebGL
+          unityVersion: ${{ vars.UNITY_VERSION }}
+
+      # Builder で出力した WebGL ビルドを GitHub Pages にデプロイする
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@4
+        with:
+          # GitHub Pages デプロイ用の Orphan ブランチ名を指定する
+          branch: ${{ vars.DEPLOY_BRANCH }}
+          # デプロイ用ビルドフォルダパスを指定する
+          # GameCI の Builder はデフォルトでは build フォルダにビルド内容を出力する
+          folder: ${{ env.buildFolder }}
+
+      # Builder で出力した WebGL ビルドをアーティファクトでダウンロード可能にする
+      - name: Upload the WebGL Build
+        uses: actions/upload-artifact@v2
+        with:
+          name: Build
+          path: ${{ env.buildFolder }}
+    
