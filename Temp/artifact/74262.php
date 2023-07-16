@@ -1,0 +1,29 @@
+<center><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p><table border="1" cellspacing="0" bgcolor="white"><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">授業科目名</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;マーケティング<br>&nbsp;&nbsp; Marketing</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">時間割番号</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2164</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">担当教員名</div></td><td><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;土屋　仁志 他</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">実務経験<br>反映科目</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px"></div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">学科・年次</div></td><td colspan="3"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;工学部第一部  3年次 </div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">科目区分</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;産業・経営リテラシー</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">単位数</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">時間割</div></td><td align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;前期 金曜1-2限</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業形態</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">講義</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業実施方法</div></td><td colspan=3 width="450" align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp&#9745対面&nbsp;&nbsp&#9744オンデマンド&nbsp;&nbsp&#9744同時双方向<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">ディプロマ・ポリシーとの対応</div><div style="margin:10px">&#9745&nbsp1.&nbsp人間，文化，社会を理解し，それらを技術的観点から考察する能力と技術を新しい生活につなぐ強い使命感・責任感，高い倫理観<br>&#9744&nbsp2.&nbsp現象の理解・操作のための数理的基礎知識と科学的素養<br>&#9744&nbsp3.&nbsp国内外の人々と対話できるコミュニケーション力と論理的思考力<br>&#9744&nbsp4.&nbsp（高度工学教育課程のみ）基幹となる専門分野の基盤的な知識・技術とこれによって課題を解決する能力，新たな知識・技術を習得する能力<br>&#9744&nbsp4.&nbsp（創造工学教育課程のみ）基幹となる専門分野の基礎知識と他の分野の知識・技術を関連づけ多面的に見ることで新たな価値を創出する能力<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業の目的・達成目標</div><div style="margin:10px"><p>【授業の目的】</p>
+<p>本授業では，マーケティングの基本概念について理解し，多角的思考で分析する能力を養成する。</p>
+<p>【達成目標】</p>
+<p>１．マーケティングの各種概念を理解する。</p>
+<p>２．製品が市場で受入れられるプロセスについて説明できる。</p>
+<p>３．工学技術とマーケティングとの関係について説明できる。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業計画</div><div style="margin:10px"><p>１　イントロダクション：マーケティングとは？</p>
+<p>２　STP（Segmentation，Targeting，Positioning）</p>
+<p>３　製品戦略</p>
+<p>４　価格戦略</p>
+<p>５　プロモーション戦略</p>
+<p>６　チャネル戦略</p>
+<p>７　ブランド戦略</p>
+<p>８　国際マーケティング</p>
+<p>９　情報化とマーケティング</p>
+<p>１０　リレーションシップマーケティング</p>
+<p>１１　ロジカルシンキング：マーケティングの各種フレームワークを学ぶ</p>
+<p>１２　サービスマーケティング</p>
+<p>１３　サービスイノベーション（1）</p>
+<p>１４　サービスイノベーション（2）</p>
+<p>１５　全体のまとめと復習</p>
+<p>１６　期末レポート＋解説</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の方法</div><div style="margin:10px"><p>期末の課題レポート（100％）で評価する。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の基準</div><div style="margin:10px">秀　 達成目標を超えた成果を上げている　100点～90点<br>優　 達成目標に十分達している　　　　　89点～80点<br>良　 達成目標に達している　　　　　　　79点～70点<br>可　 達成目標に概ね達している　　　　　69点～60点<br>不可 達成目標に達していない　　　　　　59点以下<br><p>S：市場分析をしっかりと行ったうえで，社会貢献とビジネスが共存する新しい提案がなされている。</p>
+<p>A：市場分析をしっかりと行ったうえで，ビジネスとして成立する新しい提案がなされている。</p>
+<p>B：市場分析を行ったうえで，なんらかの提案がなされている。</p>
+<p>C：市場分析が弱いが，なんらかの提案がなされている。</p>
+<p>F：市場分析が弱く，提案の根拠も弱い。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">事前・事後学修等の指示及び履修にあたっての注意事項</div><div style="margin:10px"><p>【準備学習（120分）】</p>
+<p>ニュースや新聞などで、今日的なビジネスの動向の情報を得る</p>
+<p>【事後学習（120分）】</p>
+<p>講義後，各自がメモしたPPTファイルをもとに復習</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">教科書</div><div style="margin:10px">パワーポイントの資料を使用する。<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">参考書</div><div style="margin:10px"></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">オフィスアワー</div><div style="margin:10px"><p>講義終了後（対面授業時）あるいはmoodleのフォーラムで対応します。</p>
+<p>世話教員：横山淳一　yokoyama.junichi@nitech.ac.jp</p></div></td></tr></table><p><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p></center>

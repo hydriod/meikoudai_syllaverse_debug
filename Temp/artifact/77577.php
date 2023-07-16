@@ -1,0 +1,31 @@
+<center><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p><table border="1" cellspacing="0" bgcolor="white"><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">授業科目名</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;現代社会論<br>&nbsp;&nbsp; Contemporary Society</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">時間割番号</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">1307</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">担当教員名</div></td><td><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;川崎　雄二郎</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">実務経験<br>反映科目</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px"></div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">学科・年次</div></td><td colspan="3"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;工学部第二部 3年次 </div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">科目区分</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;リベラルアーツ</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">単位数</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">時間割</div></td><td align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;前期 火曜3-4限</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業形態</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">講義</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業実施方法</div></td><td colspan=3 width="450" align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp&#9745対面&nbsp;&nbsp&#9744オンデマンド&nbsp;&nbsp&#9744同時双方向<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">ディプロマ・ポリシーとの対応</div><div style="margin:10px">&#9744&nbsp1.&nbsp現象の理解・操作のための数理的基礎知識と科学的素養<br>&#9745&nbsp2.&nbsp歴史，文化，社会への理解と技術的観点から考察する能力と技術を新しい生活につなぐ強い使命感，責任感，高い倫理観<br>&#9744&nbsp3.&nbsp国内外の人々と対話をできるコミュニケーション力と論理的思考力<br>&#9744&nbsp4.&nbsp基幹となる専門分野の基盤的な知識・技術と新たな知識・技術を習得する能力<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業の目的・達成目標</div><div style="margin:10px"><p>授業の目的：</p>
+<p>  日本をはじめとする多くの国々が市場経済を採用し、それによって経済発展を遂げているが、現代では社会変容、技術進歩などによって経済がより高度化・複雑化したことにより、経済をとらえ理解することが一層難しくなってきている。</p>
+<p>そこで、本講義の目的は以下の２つに定める。１つ目は、現在の日本経済（ないしは世界経済）がどのような状況にあり、どのような課題を抱えているかを理解することである。講義においては、実際の経済指標のデータに基づいて考察を行う。２つ目は、マクロ経済学、ミクロ経済学などにおける主要な経済理論によって経済のメカニズムを理解することである。</p>
+<p> </p>
+<p>達成目標：</p>
+<p>（１）日本および世界の経済の現状と課題を理解する。</p>
+<p>（２）経済学の諸理論について、基本的な概念や考え方を習得する。</p>
+<p>（３）社会および経済に対するリテラシー（データによって経済の動向を分析する力）を身につける。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業計画</div><div style="margin:10px"><p>以下の順序で講義を行う。ただし、クラスの理解度によっては進度と順番を順次調整する。</p>
+<p>１．経済学における基本的な考え方</p>
+<p>２．市場の価格調整メカニズム</p>
+<p>３．社会の利益の測り方</p>
+<p>４．効率性と公平性</p>
+<p>５．日本の経済発展</p>
+<p>６．政府の役割</p>
+<p>７．金融システム</p>
+<p>８．財市場のモデル</p>
+<p>９．貨幣市場のモデル</p>
+<p>１０．財政政策と金融政策</p>
+<p>１１．景気と物価のメカニズム</p>
+<p>１２．日本経済の抱える諸問題：人口減少、労働、国際経済</p>
+<p>１３．囚人のジレンマ・ナッシュ均衡</p>
+<p>１４．情報の経済学</p>
+<p>１５．全体のまとめ</p>
+<p>１６．期末試験</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の方法</div><div style="margin:10px"><p>中間レポート（40%）</p>
+<p>期末試験（60%）</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の基準</div><div style="margin:10px">秀　 達成目標を超えた成果を上げている　100点～90点<br>優　 達成目標に十分達している　　　　　89点～80点<br>良　 達成目標に達している　　　　　　　79点～70点<br>可　 達成目標に概ね達している　　　　　69点～60点<br>不可 達成目標に達していない　　　　　　59点以下<br><p>成績評価においては授業の目的・達成目標を基準とする。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">事前・事後学修等の指示及び履修にあたっての注意事項</div><div style="margin:10px"><p>事前学修：テキストおよび参考書の予習（毎回90分）</p>
+<p>事後学修：授業資料を参考に、各自の授業ノートを完成させ、小テストに回答する（毎回120分）</p>
+<p>中間レポートの作成（450分）</p>
+<p>注意事項：</p>
+<p>経済学（あるいは社会科学全体）を「暗記の学問」だと思っているのであれば、その考えは捨てた方が良い。経済や社会の現象を分析する上でも、自然科学と同様、データや理論（モデル）によって論理的に思考することが肝要であり、本講義においても論理的な思考が要求される点に注意されたい。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">教科書</div><div style="margin:10px">日経ビジネス編『日本経済入門（第2版）』（日経BP）<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">参考書</div><div style="margin:10px"><a href="http://opac.lib.nitech.ac.jp/opc/recordID/catalog.bib/BB29950035" target=_blank>小峰・村田「最新日本経済入門（第6版）」（日本評論社）<a><br><a href="http://opac.lib.nitech.ac.jp/opc/recordID/catalog.bib/BB17934665" target=_blank>伊藤「入門経済学（第4版）」（日本評論社）<a><br><a href="http://opac.lib.nitech.ac.jp/opc/recordID/catalog.bib/BB30333910" target=_blank>浅子ほか編「入門・日本経済（第6版）」（有斐閣）<a><br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">オフィスアワー</div><div style="margin:10px"><p>月曜13:00～14:30とするが、いつでもよい。</p>
+<p>居室：53号館508A号室</p>
+<p>メールアドレス：kawasaki.yujiro@nitech.ac.jp</p></div></td></tr></table><p><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p></center>

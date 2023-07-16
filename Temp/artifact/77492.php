@@ -1,0 +1,30 @@
+<center><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p><table border="1" cellspacing="0" bgcolor="white"><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">授業科目名</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;力学<br>&nbsp;&nbsp; Mechanics</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">時間割番号</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">0203</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">担当教員名</div></td><td><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;高橋　聡</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">実務経験<br>反映科目</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px"></div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">学科・年次</div></td><td colspan="3"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;工学部 1年次 </div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">科目区分</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;基幹工学教育課程</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">単位数</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">時間割</div></td><td align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;前期 水曜3-4限</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業形態</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">講義</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業実施方法</div></td><td colspan=3 width="450" align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp&#9745対面&nbsp;&nbsp&#9744オンデマンド&nbsp;&nbsp&#9744同時双方向<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">ディプロマ・ポリシーとの対応</div><div style="margin:10px">&#9744&nbsp1.&nbsp基幹となる専門分野の基盤的な知識・技術とこれによって課題を解決する能力，新たな知識・技術を習得し創製する能力<br>&#9745&nbsp2.&nbsp現象の理解・操作のための数理的基礎知識と科学的素養<br>&#9744&nbsp3.&nbsp人間，文化，社会を理解し,それらを技術的観点から考察する能力と技術を新しい生活につなぐ強い使命感・責任感，高い倫理観<br>&#9744&nbsp4.&nbsp国内外の人々と対話できるコミュニケーション力と論理的思考力<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業の目的・達成目標</div><div style="margin:10px"><p>[授業の目的]</p>
+<p>力学は、工学を学ぶ上で欠かすことのできない重要な科目である。力学の基礎法則を理解すること。さらに、<span>ベクトル、微分積分といった数学的道具を使いこなして、力学の基本的な問題が解けるようになること。</span></p>
+<p>[達成目標]</p>
+<p><span>以下の<span>項目</span>に対し、</span>ベクトル、微分積分といった数学的道具を使いこなして、取り組むことができるようになることを目標とする。</p>
+<p>1.  <span>放物運動</span>、<span>単振動</span>、基本的な<span>拘束運動</span>のニュートンの運動方程式の解を導き出すことができる</p>
+<p>2.　<span>仕事とエネルギーについて理解する。またこの概念を用いて基本的な問題を解くことができるようになる。</span></p>
+<p>3.　<span>円運動<span>について理解する。</span></span></p>
+<p>4.　<span>角運動量と力のモーメント<span>について理解する。</span></span></p>
+<p>5.　<span>固定軸のある剛体の運動<span>について理解する。</span></span></p>
+<p> </p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業計画</div><div style="margin:10px"><p>1. 微分積分とベクトルに関する復習</p>
+<p>2. 運動</p>
+<p>3.  運動の法則と力の法則</p>
+<p>4.　放物運動</p>
+<p>5.　単振動</p>
+<p>6.　いろいろな力</p>
+<p>7-8.　仕事とエネルギー</p>
+<p>9. 円運動</p>
+<p>10.  角運動量と力のモーメント</p>
+<p>11. 質点系の力学</p>
+<p>12. 剛体の力学</p>
+<p>13. 固定軸まわりの剛体の回転運動と慣性モーメント</p>
+<p>14. 試験</p>
+<p>15. 試験問題の解説</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の方法</div><div style="margin:10px"><p><span>試験100%</span></p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の基準</div><div style="margin:10px">秀　 達成目標を超えた成果を上げている　100点～90点<br>優　 達成目標に十分達している　　　　　89点～80点<br>良　 達成目標に達している　　　　　　　79点～70点<br>可　 達成目標に概ね達している　　　　　69点～60点<br>不可 達成目標に達していない　　　　　　59点以下<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">事前・事後学修等の指示及び履修にあたっての注意事項</div><div style="margin:10px"><p>事前学修：moodleに公開する講義資料、教科書で、講義内容を予習しておく。<span>（120分）</span></p>
+<p>事後学修：講義での演習問題を自分で解いてみる。講義の復習を行う。<span>（120分）</span></p>
+<p><span>問題ごとに解くパターンを憶えるのではなく、基本原理から論理的に答えを導くことを心がけて下さい。</span></p>
+<p> </p>
+<p><span>必ずしも、教科書の順番で講義するとは限りません。</span></p>
+<p><span>後期の電磁気学でも、同じ教科書を用います。</span></p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">教科書</div><div style="margin:10px"><a href="http://opac.lib.nitech.ac.jp/opc/recordID/catalog.bib/BB04463180" target=_blank>物理学基礎　原康夫著　学術図書出版社<a><br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">参考書</div><div style="margin:10px"></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">オフィスアワー</div><div style="margin:10px"><p>随時。ただし、メールでアポイントをとること。</p>
+<p><span>居室：11号館5階520室</span></p>
+<p>メールアドレス：takahashi.akira@nitech.ac.jp</p></div></td></tr></table><p><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p></center>

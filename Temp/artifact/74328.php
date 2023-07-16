@@ -1,0 +1,29 @@
+<center><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p><table border="1" cellspacing="0" bgcolor="white"><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">授業科目名</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;セラミックス応用学演習Ⅱ<br>&nbsp;&nbsp; Exercises in Applied Ceramic ScienceⅡ</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">時間割番号</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2425</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">担当教員名</div></td><td><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;籠宮　功 他</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">実務経験<br>反映科目</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px"></div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">学科・年次</div></td><td colspan="3"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;工学部第一部  生命・応用化学科<BR>&nbsp; 工学部第一部  創造工学教育課程<br>&nbsp;&nbsp3年次 </div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">科目区分</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;専門教育科目</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">単位数</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">1</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">時間割</div></td><td align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;前期 木曜1-2限</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業形態</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">演習</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業実施方法</div></td><td colspan=3 width="450" align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp&#9745対面&nbsp;&nbsp&#9744オンデマンド&nbsp;&nbsp&#9744同時双方向<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">ディプロマ・ポリシーとの対応</div><div style="margin:10px">&#9744&nbsp1.&nbsp人間，文化，社会を理解し，それらを技術的観点から考察する能力と技術を新しい生活につなぐ強い使命感・責任感，高い倫理観<br>&#9744&nbsp2.&nbsp現象の理解・操作のための数理的基礎知識と科学的素養<br>&#9745&nbsp3.&nbsp国内外の人々と対話できるコミュニケーション力と論理的思考力<br>&#9745&nbsp4.&nbsp（高度工学教育課程のみ）基幹となる専門分野の基盤的な知識・技術とこれによって課題を解決する能力，新たな知識・技術を習得する能力<br>&#9745&nbsp4.&nbsp（創造工学教育課程のみ）基幹となる専門分野の基礎知識と他の分野の知識・技術を関連づけ多面的に見ることで新たな価値を創出する能力<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業の目的・達成目標</div><div style="margin:10px"><div>授業の目的</div>
+<div>　物理・化学実験およびセラミックス応用学実験において得られるデータを十分に理解し、材料合成へとフィードバックさせることが新材料開発を担う者には求められる。そこで、「セラミックスの電気物性」および「振動スペクトル・データ解析」を題材にして、実務的な演習を積み、理論を実際の問題に適用する能力を高める。</div>
+<div> </div>
+<div>達成目標</div>
+<div>　理論やデータ解析の方法を習得し、卒業研究を行う基礎的な力を養う。</div></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業計画</div><div style="margin:10px"><p>1～6週目：「セラミックスの電気物性」</p>
+<p>　[達成目標1：セラミックスの電気物性に関する演習を行うことで、材料の電気的特性評価の手法を習得する]</p>
+<p>・電気抵抗</p>
+<p>・固体の電気伝導性</p>
+<p>・半導体の電気伝導性1</p>
+<p>・半導体の電気伝導性2</p>
+<p>・イオン導電体の電気物性</p>
+<p> </p>
+<p>7～11 週目：「振動スペクトル・データ解析」</p>
+<p>　[達成目標 2：分子振動の原理を理解し、赤外線吸収スペクトルの解析・評価方法、プログラムを動かしながらスペクトル波形分離技法を習得する。]</p>
+<p>・振動スペクトル (単純分子の振動、ラマン・赤外活性、NMRスペクトル、<br />  分子構造の最適化、分子軌道計算、波形分離など)</p>
+<p> </p>
+<p>12〜15週目：　その他</p>
+<p>・セラミックスに関する最新のテーマの中から毎回トピックスを選定して解説し，</p>
+<p>関連する演習課題を実施する．</p>
+<p> </p>
+<p>１６週目：まとめ</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の方法</div><div style="margin:10px"><div>
+<p>演習、課題を行い、その総合評価の６０％以上を合格とする。</p>
+</div></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の基準</div><div style="margin:10px">秀　 達成目標を超えた成果を上げている　100点～90点<br>優　 達成目標に十分達している　　　　　89点～80点<br>良　 達成目標に達している　　　　　　　79点～70点<br>可　 達成目標に概ね達している　　　　　69点～60点<br>不可 達成目標に達していない　　　　　　59点以下<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">事前・事後学修等の指示及び履修にあたっての注意事項</div><div style="margin:10px"><p>テーマごとに演習やレポートの提出が求められるので、関連する事項について事前に調べること。</p>
+<p><span>必要に応じて担当教員から指示する。</span></p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">教科書</div><div style="margin:10px">必要に応じてプリント類を配布することがある<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">参考書</div><div style="margin:10px"></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">オフィスアワー</div><div style="margin:10px"><div>籠宮：　木曜日　16:30-17:30　２号館５階504Ａ室（籠宮; kagomiya@nitech.ac.jp),</div>
+<div> </div>
+<div>大幸：　特に指定無し(在室していればいつでも可) ２号館8階821Ａ室（大幸; daiko.yusuke@nitech.ac.jp)</div>
+<div> </div>
+<div> 　　</div>
+<div> </div></div></td></tr></table><p><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p></center>

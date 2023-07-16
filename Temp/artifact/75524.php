@@ -1,0 +1,34 @@
+<center><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p><table border="1" cellspacing="0" bgcolor="white"><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">授業科目名</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;実践研究セミナー<br>&nbsp;&nbsp; Research Seminar</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">時間割番号</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">7710</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">担当教員名</div></td><td><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;鈴木　弘司 他</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">実務経験<br>反映科目</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">O</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">学科・年次</div></td><td colspan="3"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;工学部第一部  社会工学科 3年次 </div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">科目区分</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;専門教育科目</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">単位数</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">時間割</div></td><td align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;後期 水曜1-4限</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業形態</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">演習</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業実施方法</div></td><td colspan=3 width="450" align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp&#9745対面&nbsp;&nbsp&#9744オンデマンド&nbsp;&nbsp&#9744同時双方向<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">ディプロマ・ポリシーとの対応</div><div style="margin:10px">&#9744&nbsp1.&nbsp人間，文化，社会を理解し，それらを技術的観点から考察する能力と技術を新しい生活につなぐ強い使命感・責任感，高い倫理観<br>&#9744&nbsp2.&nbsp現象の理解・操作のための数理的基礎知識と科学的素養<br>&#9745&nbsp3.&nbsp国内外の人々と対話できるコミュニケーション力と論理的思考力<br>&#9745&nbsp4.&nbsp（高度工学教育課程のみ）基幹となる専門分野の基盤的な知識・技術とこれによって課題を解決する能力，新たな知識・技術を習得する能力<br>&#9744&nbsp4.&nbsp（創造工学教育課程のみ）基幹となる専門分野の基礎知識と他の分野の知識・技術を関連づけ多面的に見ることで新たな価値を創出する能力<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業の目的・達成目標</div><div style="margin:10px"><p align="left">【授業の目的】</p>
+<p align="left">環境都市工学（土木工学）のより深い理解，また進路決定や卒業研究着手に向け，</p>
+<p align="left">１）教員や実務家とのコミュニケーションを通じて説明責任を果たすことのできる技術者としての素養を高めること</p>
+<p align="left">２）３年前期までに学んだ基礎理論や工学技術が，実際の研究・開発や実社会においてどのように適用されているかを理解し，問題解決のための応用力を養うこと</p>
+<p align="left">を目的とする。</p>
+<p align="left">【達成目標】</p>
+<p align="left">① 環境都市工学における実務の内容，技術者としての心構えを理解し，表現できる。</p>
+<p align="left">② 卒業研究の前提となる工学基礎および環境都市工学の基礎学力を定着させる。</p>
+<p align="left">③ 社会で活躍できる技術者としてのコミュニケーション能力を体得し，自分の考えを記述し説明できる。</p>
+<p align="left">【関連科目】</p>
+<p align="left">理解の助けになる科目：環境都市分野の専門教育科目全般，科学技術英語</p>
+<p align="left">学んだ内容を用いる科目：卒業研究</p>
+<p align="left">【関連する学習教育目標】</p>
+<p align="left">(C)多面的思考と技術者倫理(人類の文化，社会や自然に関する多面的な思考力を修得し，技術者としての倫理・責任感を身につける)</p>
+<p align="left">(G)コミュニケーション能力(説明責任を果たすためのコミュニケーション能力を習得する)</p>
+<p align="left">(I)デザイン能力(自ら問題を発見し，調査・分析・評価・提案を行うことにより問題を解決する能力を身につける)</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業計画</div><div style="margin:10px"><p>PBL演習では，技術士として豊富な実務経験をもつ実務型教員がファシリテーターとして指導にあたる。また，土木系技術実務の講習会では，土木建設系の様々な業種の企業等の方にお越しいただき，大学で習得する知識や能力が実務でどのように生かされるかや，進路を考えるにあたっての心構え等について，経験を踏まえた講義をしていただく。</p>
+<p>1回   PBL演習1（ガイダンス，班分け，課題設定，課題の解説），大学院とデザイン教育</p>
+<p>2回   PBL演習2，建設技術フェア</p>
+<p>3回   PBL演習3，進学・就職ガイダンス，</p>
+<p>4回   PBL演習4，土木系技術実務の講習会1</p>
+<p>5回   建設ICT講義，</p>
+<p>6回   PBL演習5，CIM演習2</p>
+<p>7回   PBL演習6（中間発表），PBL演習7</p>
+<p>8回   土木系技術実務の講習会2</p>
+<p>9回   PBL演習8，国家公務員対策1（座学）</p>
+<p>10回   土木系技術実務の講習会3</p>
+<p>11回   PBL演習9，土木系技術実務の講習会4</p>
+<p>12回   PBL演習10，土木系技術実務の講習会5</p>
+<p>13回   PBL演習11，12（最終発表）</p>
+<p>14回   土木系技術実務の講習会6</p>
+<p>15回   国家公務員対策2（二次試験問題演習），土木系技術実務の講習会7</p>
+<p>16回   面接練習</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の方法</div><div style="margin:10px"><p>PBL演習，建設技術フェアのレポート，土木系技術実務講習会のレポート，面接練習によって評価する。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の基準</div><div style="margin:10px">秀　 達成目標を超えた成果を上げている　100点～90点<br>優　 達成目標に十分達している　　　　　89点～80点<br>良　 達成目標に達している　　　　　　　79点～70点<br>可　 達成目標に概ね達している　　　　　69点～60点<br>不可 達成目標に達していない　　　　　　59点以下<br><p>PBL演習40点（目標③），建設技術フェアのレポート10点（目標①），技術者講義のレポート40点（目標①，②），面接練習10点（目標③）の合計で6割の得点で合格とする。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">事前・事後学修等の指示及び履修にあたっての注意事項</div><div style="margin:10px"><p>演習では，現地取材など学外での活動を積極的に行うことが望ましい。また，講師の都合などにより順序が変更となる場合があるので，掲示などに注意すること。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">教科書</div><div style="margin:10px">特になし。プリントや資料を適宜配付する。<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">参考書</div><div style="margin:10px">適宜紹介する。<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">オフィスアワー</div><div style="margin:10px"><p>授業時間前後の以外の時間では，アポイントメントをとって質問や相談すること。</p>
+<p>メールアドレス：evh23061@ict.nitech.ac.jp　（鈴木）</p>
+<p>（担当者が変更される場合には後日連絡する）</p></div></td></tr></table><p><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p></center>

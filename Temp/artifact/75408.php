@@ -1,0 +1,29 @@
+<center><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p><table border="1" cellspacing="0" bgcolor="white"><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">授業科目名</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;実践研究セミナー<br>&nbsp;&nbsp; Research Seminar</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">時間割番号</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">7463</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">担当教員名</div></td><td><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;物理工学科全教員 他</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">実務経験<br>反映科目</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px"></div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">学科・年次</div></td><td colspan="3"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;工学部第一部  物理工学科 3年次 </div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">科目区分</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;専門教育科目</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">単位数</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">時間割</div></td><td align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;後期 月曜5-8限</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業形態</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">実習</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業実施方法</div></td><td colspan=3 width="450" align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp&#9745対面&nbsp;&nbsp&#9744オンデマンド&nbsp;&nbsp&#9744同時双方向<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">ディプロマ・ポリシーとの対応</div><div style="margin:10px">&#9744&nbsp1.&nbsp人間，文化，社会を理解し，それらを技術的観点から考察する能力と技術を新しい生活につなぐ強い使命感・責任感，高い倫理観<br>&#9744&nbsp2.&nbsp現象の理解・操作のための数理的基礎知識と科学的素養<br>&#9745&nbsp3.&nbsp国内外の人々と対話できるコミュニケーション力と論理的思考力<br>&#9745&nbsp4.&nbsp（高度工学教育課程のみ）基幹となる専門分野の基盤的な知識・技術とこれによって課題を解決する能力，新たな知識・技術を習得する能力<br>&#9744&nbsp4.&nbsp（創造工学教育課程のみ）基幹となる専門分野の基礎知識と他の分野の知識・技術を関連づけ多面的に見ることで新たな価値を創出する能力<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業の目的・達成目標</div><div style="margin:10px"><p>前半　安全衛生教育</p>
+<p>卒業研究を開始する4年次において、自身の健康、安全を確保し、研究・実験を遂行するためには、実験室内にある様々な危険性・装置の取り扱い方法ついて理解しておく必要がある。そこで、様々な危険性に対処できる能力を身につけ、安全に装置を利用するために必要な安全および環境保全についての基礎を学ぶ。また、電気・高圧ガス・放射線・薬品などに関する安全教育を含めて講義する。研究・実験を行う際に必要な安全および環境保全に関する基礎知識を取得し、高い安全意識を身につけることを達成目標とする。</p>
+<p> 後半　材料分析教育</p>
+<p>様々な機能性材料の性質・特徴を理解するためには、適切な分析手法を選択し、そこで得られるデータを正しく解析・解釈する必要がある。そのためには、予め幅広い分析手法・分析機器に関する系統的な基礎知識を習得しておくことが重要である。材料研究に用いられる代表的な分析機器・分析手法について、それらの原理・利用方法・データの解析・解釈法を基礎から説明する。各分析装置の原理・特徴をよく理解し、様々な分析手法で得られた情報を組み合わせることにより、材料の性質を総合的に把握することができる知識を取得することを達成目標とする。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業計画</div><div style="margin:10px"><p>前半　安全衛生教育</p>
+<ol>
+<li>ガイダンスおよび安全衛生の基礎と実験の基本</li>
+<li>ガス・高圧ボンベの取り扱い</li>
+<li>X線・放射線の取り扱い</li>
+<li>化学薬品・危険物の取り扱い</li>
+<li>電気関係の取り扱い</li>
+<li>真空装置の取り扱い</li>
+<li>工作機械装置の取り扱い</li>
+</ol>
+<p> 後半　材料分析教育</p>
+<ol>
+<li>結晶構造解析</li>
+<li>表面構造解析</li>
+<li>電子状態解析</li>
+<li>熱物性評価</li>
+<li>電子輸送特性評価</li>
+<li>磁気特性評価</li>
+<li>強度特性評価</li>
+<li>組成分析</li>
+</ol>
+<p> </p>
+<p>担当や内容はガイダンス時に説明を行う</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の方法</div><div style="margin:10px"><p>各回にレポートが課されれ、すべて合算して成績を判定する（１００％）。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の基準</div><div style="margin:10px">秀　 達成目標を超えた成果を上げている　100点～90点<br>優　 達成目標に十分達している　　　　　89点～80点<br>良　 達成目標に達している　　　　　　　79点～70点<br>可　 達成目標に概ね達している　　　　　69点～60点<br>不可 達成目標に達していない　　　　　　59点以下<br><p>個別のレポートへの問い合わせは各担当の教員に行うこと。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">事前・事後学修等の指示及び履修にあたっての注意事項</div><div style="margin:10px"><p>遅刻厳禁。実際のテーマの実施にあたっては、担当教員の指示に従うこと。</p>
+<p>事前学習：１２０分</p>
+<p>事後学習：各自ノートを完成させると共に各課題の回答および提出を行う。１２０分</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">教科書</div><div style="margin:10px">初回ガイダンス時、およびテーマ毎に適宜指示する。<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">参考書</div><div style="margin:10px">初回ガイダンス時、およびテーマ毎に適宜紹介する。<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">オフィスアワー</div><div style="margin:10px"><p>個別テーマについての質問・相談は、ガイダンス時に教員ごとに個別にメールアドレスを指示する。</p>
+<p>全体についての質問・相談はいつでも良いが、全体をまとめる担当の教員（3年生クラス担当）に必ず事前連絡すること。</p></div></td></tr></table><p><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p></center>

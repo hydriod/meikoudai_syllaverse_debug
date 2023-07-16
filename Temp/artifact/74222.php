@@ -1,0 +1,37 @@
+<center><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p><table border="1" cellspacing="0" bgcolor="white"><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">授業科目名</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;地盤力学<br>&nbsp;&nbsp; Basic Geomechanics</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">時間割番号</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">1718</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">担当教員名</div></td><td><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;前田　健一</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">実務経験<br>反映科目</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px"></div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">学科・年次</div></td><td colspan="3"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;工学部第一部  社会工学科<BR>&nbsp; 工学部第一部  創造工学教育課程<br>&nbsp;&nbsp2年次 </div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">科目区分</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;専門教育科目</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">単位数</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">時間割</div></td><td align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;前期 月曜5-6限</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業形態</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">講義</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業実施方法</div></td><td colspan=3 width="450" align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp&#9745対面&nbsp;&nbsp&#9744オンデマンド&nbsp;&nbsp&#9744同時双方向<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">ディプロマ・ポリシーとの対応</div><div style="margin:10px">&#9744&nbsp1.&nbsp人間，文化，社会を理解し，それらを技術的観点から考察する能力と技術を新しい生活につなぐ強い使命感・責任感，高い倫理観<br>&#9745&nbsp2.&nbsp現象の理解・操作のための数理的基礎知識と科学的素養<br>&#9744&nbsp3.&nbsp国内外の人々と対話できるコミュニケーション力と論理的思考力<br>&#9745&nbsp4.&nbsp（高度工学教育課程のみ）基幹となる専門分野の基盤的な知識・技術とこれによって課題を解決する能力，新たな知識・技術を習得する能力<br>&#9745&nbsp4.&nbsp（創造工学教育課程のみ）基幹となる専門分野の基礎知識と他の分野の知識・技術を関連づけ多面的に見ることで新たな価値を創出する能力<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業の目的・達成目標</div><div style="margin:10px"><p>【授業の目的】　地盤を構成する地盤材料は他の材料(例えば,鉄,コンクリート)に比べその力学挙動は複雑である。これは地盤材料が自然物であり,水や空気との混合体であるとともに,粒状性を有するためである。このような地盤材料を力学の大系内で取り扱うための基礎を学ぶ。</p>
+<p>【授業の達成目標】　授業を通して,地盤力学の基礎事項を学び身に着けるとともに,地盤材料の力学特性に対する理論的な考え方を養う。地盤材料に関する１次元挙動を説明できるとともに，現象を力学で記述できるようにする。</p>
+<p>【関連する科目】　本講義はこの授業の後に続く地盤解析学と対をなし,両授業を通して,地盤材料に対する基本的な知識と考え方を習得するとともにその応用である地盤工学，防災地質学を学ぶための基礎知識を身につける。本講義の前に履修する，構造力学Ⅰや環境水理学Ⅰの理解は地盤力学の学習の助けになる。また，都市社会工学基礎などの科学技術基礎や力学などの自然科学がどのように工学に結びついているかを体感できる．</p>
+<p>・理解の助けになる科目：構造力学Ⅰ，環境水理学Ⅰ，社会工学基礎</p>
+<p>・学んだ内容を用いる科目：地盤解析学，環境地盤工学，防災地質学</p>
+<p><strong>●履修にあたって社会工学基礎Ⅱ（環境都市）の講義を受講していることが必要である</strong></p>
+<p><br /><strong>【関連する学習教育目標】<br /></strong>　　　　　（D）：主要専門科目の基礎を身につける。　（◎キーワード：土質力学・力学一般）</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業計画</div><div style="margin:10px"><p> </p>
+<ol>
+<li>地盤力学の概説: 地盤力学（土質力学）の生い立ちから始めその必要性を概説する。また、授業の構成について全般的な話をする。</li>
+<li>地盤力学に重要な間隙の定量的表現方法も導入する。</li>
+<li> 地盤力学・地盤解析学を学ぶための連続体基礎: 連続体の基礎(応力、ひずみ、力のつり合式,連続式あるいは変形の適合条件式)について整理する。 ④有効応力と間隙水圧: 地盤材料が他の材料(鉄やコンクリート)と大きく異なるのは土と水の(空気が入ることもある)混合体ということである。このような液体(水)と固体(土粒子)の2層混合体を連続体として扱うとき,有効応力と間隙水圧の考え方が必要となる。</li>
+<li>有効応力や間隙水圧の定義とともに土質力学における有効応力式の必要性を理解する。また,その中で土の組成とそれに関する物理量にもふれる。</li>
+<li>有効応力の具体的計算</li>
+<li>1次元および2次元透水問題: 地盤中の水の流れはDarcy則で説明される。Darcy則の意味を説明するとともに,地盤中の1次元透水問題への適用について解説する。</li>
+<li>Darcy則の理論的誘導を行う。</li>
+<li>１次元浸透における有効応力の変化を算定できるようにする。</li>
+<li>浸透破壊現象について理解する・</li>
+<li> 浸透場においても，連続体の基礎知識と有効応力式が大いに関係する。また。地盤の透水問題の解析法について学ぶ。</li>
+<li>1次元の変形問題について,土質材料の非線形性と土・水混合材料であるがゆえの変形の時間遅れ(圧密)を学習する。</li>
+<li>圧密現象の簡単な物理モデリングを行う．</li>
+<li>圧密現象の理論的モデリングを行う。</li>
+<li>理論解の解法と解の利用方法を習得する。</li>
+<li> 1次元の変形問題: 1次元の変形問題について,土質材料の非線形性と土・水混合材料であるがゆえの変形の時間遅れ(圧密)を復習するとともに，実際地盤の1次元変形の予測法について学ぶ。</li>
+<li> 総括および期末テスト</li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>オンディマンド動画については十分に活用する。</strong></span></p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の方法</div><div style="margin:10px"><p>レポート，小テストを適宜課す。また、期末試験を行う。</p>
+<p> 配点はそれぞれ，レポート（50 ％），期末試験（ 50 ％）とする。</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の基準</div><div style="margin:10px">秀　 達成目標を超えた成果を上げている　100点～90点<br>優　 達成目標に十分達している　　　　　89点～80点<br>良　 達成目標に達している　　　　　　　79点～70点<br>可　 達成目標に概ね達している　　　　　69点～60点<br>不可 達成目標に達していない　　　　　　59点以下<br><p> 配点はそれぞれ，レポート（50 ％），期末試験（ 50 ％）とする。上記の基準より評価する．</p>
+<p>全体で100点中 合計の60点以上を合格とする。</p>
+<p> </p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">事前・事後学修等の指示及び履修にあたっての注意事項</div><div style="margin:10px"><p>◎履修にあたっての注意事項および教室外における準備学習等の指示</p>
+<p>論理的に自分で考え,解らないところや自分の意見を積極的に発表する姿勢を望む。本講義の理解を確実なものとするため地盤工学演習を履修すること。また、必須はもとより応用分野である地盤工学を履修すること。</p>
+<p> </p>
+<ul>
+<li>事前学習：テキストやMoodle掲載の配布資料の予習（120分）</li>
+<li>事後学習：テキストとMoodle掲載の動画，配布資料を参考に，各自のノートを完成させ，レポート課題を解く。（120分）</li>
+</ul>
+<p> </p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">教科書</div><div style="margin:10px"><a href="http://opac.lib.nitech.ac.jp/opc/recordID/catalog.bib/BB10269262" target=_blank>土質力学（森北出版）<a><br><a href="http://opac.lib.nitech.ac.jp/opc/recordID/catalog.bib/BB01377617" target=_blank>土質試験　基本と手引き　地盤工学会　（丸善）<a><br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">参考書</div><div style="margin:10px">「土質力学」山口柏樹（技報堂）など．その他随時紹介する。<br>参考資料は前田研究室HP，Moodleでも配布する：http://www.maeda-lab.org/<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">オフィスアワー</div><div style="margin:10px"><p>授業前の12:00-13:00とするがいつでもよい。ただし，事前にメールなどで都合のよい日時を相談すること。場合によっては，TeamsやZoomを使うこともある．</p>
+<p>研究室:  16号館232号室<br />Tel&amp; Fax: (052)735-5497<br />E-mail: <a href="mailto:maeda.kenichi@nitech.ac.jp">maeda.kenichi@nitech.ac.jp</a><br /><a href="https://www.maeda-lab.org/">https://www.maeda-lab.org/</a></p></div></td></tr></table><p><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p></center>

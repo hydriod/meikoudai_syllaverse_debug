@@ -1,0 +1,35 @@
+<center><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p><table border="1" cellspacing="0" bgcolor="white"><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">授業科目名</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;社会工学基礎Ⅱ<br>&nbsp;&nbsp; Fundamentals of Architecture, Civil Engineering and Industrial ManagementEngineeringⅡ</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">時間割番号</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">5701</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">担当教員名</div></td><td><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;前田　健一 他</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">実務経験<br>反映科目</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px"></div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">学科・年次</div></td><td colspan="3"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;工学部第一部  社会工学科<BR>&nbsp; 工学部第一部  創造工学教育課程<br>&nbsp;&nbsp1年次 </div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">科目区分</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;専門教育科目</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">単位数</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">時間割</div></td><td align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;後期 月曜3-4限</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業形態</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">講義</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業実施方法</div></td><td colspan=3 width="450" align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp&#9745対面&nbsp;&nbsp&#9744オンデマンド&nbsp;&nbsp&#9744同時双方向<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">ディプロマ・ポリシーとの対応</div><div style="margin:10px">&#9744&nbsp1.&nbsp人間，文化，社会を理解し，それらを技術的観点から考察する能力と技術を新しい生活につなぐ強い使命感・責任感，高い倫理観<br>&#9745&nbsp2.&nbsp現象の理解・操作のための数理的基礎知識と科学的素養<br>&#9744&nbsp3.&nbsp国内外の人々と対話できるコミュニケーション力と論理的思考力<br>&#9745&nbsp4.&nbsp（高度工学教育課程のみ）基幹となる専門分野の基盤的な知識・技術とこれによって課題を解決する能力，新たな知識・技術を習得する能力<br>&#9745&nbsp4.&nbsp（創造工学教育課程のみ）基幹となる専門分野の基礎知識と他の分野の知識・技術を関連づけ多面的に見ることで新たな価値を創出する能力<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業の目的・達成目標</div><div style="margin:10px"><p> </p>
+<p>【授業の目的】社会工学科において学習・研究を行う上で必要な数学の基礎的学力を身につける．具体的には常微分方程式，偏微分方程式，ガウス定理・発散定理を用いた諸分析手法をテーマとして取り上げ，テーマごとに基本事項や分析事例を学ぶ．</p>
+<p>【達成目標】上述の諸手法を自ら用いることが出来る．</p>
+<p>【関連する科目】 理解の助けになる科目：なし 学んだ内容を用いる科目：上述の諸手法は社会工学科・環境都市分野２年生以降の授業や卒業研究で様々な形で解析作業に用いられる．</p>
+<p>【関連する学習教育目標】（A）：科学技術基礎（科学技術の共通基礎科目として数学・外国語・情報処理能力を習得する）</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業計画</div><div style="margin:10px"><p>永田と前田が担当する．</p>
+<p>◎永田担当分</p>
+<p>1 回 ガイダンス，工学と微分方程式</p>
+<p>2 回 微分と積分</p>
+<p>3 回 １階常微分方程式（直接積分）</p>
+<p>4 回 １階常微分方程式（変数分離１）</p>
+<p>5 回 １階常微分方程式（変数分離２）</p>
+<p>6 回 １階常微分方程式（階数の引き下げ ２階→１階）</p>
+<p>7 回 ２階常微分方程式（定係数斉次線形微分方程式）</p>
+<p>8 回 ２階常微分方程式（斉次線形微分方程式）</p>
+<p>◎前田担当分</p>
+<p>9 回 偏微分方程式（偏微分方程式の型式と「世界を変えた24の方程式」）</p>
+<p>10 回 偏微分方程式（偏微分における基礎事項の確認：Taylor展開と<span>Maclaurin展開の意味</span>）</p>
+<p>11 回 偏微分方程式（差分による偏微分方程式の理解：放物型，楕円型，双曲型）</p>
+<p>12 回 偏微分方程式（解析解の求め方：拡散方程式の変数分離）</p>
+<p>13 回  偏微分方程式（解析解の求め方：拡散方程式におけるフーリエ級数：場合によっては14回目にも追加解説）</p>
+<p>14 回 行列（固有値・固有ベクトルの求め方の確認）</p>
+<p>15 回 行列（固有値・固有ベクトルの物理的意味：例を基に）</p>
+<p>16 回 期末試験（もしくはレポート課題かMoodleを用いたテスト）</p>
+<p><span style="text-decoration: underline;"><strong>＊ほぼ毎回レポート課題が出される．授業内容は理解度等によって変更になることが有る．</strong></span></p>
+<p><span style="text-decoration: underline;"><strong>*オンディマンド動画については十分に活用する。</strong></span></p>
+<p><span> </span></p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の方法</div><div style="margin:10px"><p>(1)上記セッションごとに小テストまたはレポートを課す．<br />(2)1～ 15 回までの授業内容を範囲として期末試験（もしくはレポート課題かMoodleを用いたテスト）を行う．<br />(1)と(2)を合わせて評価する．<br />常微分方程式，偏微分方程式，行列に関する解法を理解し，現象を理解するための能力について評価する．</p>
+<p>レポート40％</p>
+<p>試験60％</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の基準</div><div style="margin:10px">秀　 達成目標を超えた成果を上げている　100点～90点<br>優　 達成目標に十分達している　　　　　89点～80点<br>良　 達成目標に達している　　　　　　　79点～70点<br>可　 達成目標に概ね達している　　　　　69点～60点<br>不可 達成目標に達していない　　　　　　59点以下<br><p>(1)上記セッションごとに小テストまたはレポートを課す．（配点４０点）<br />(2)1～15 回までの授業内容を範囲として期末試験（もしくはレポート課題かMoodleを用いたテスト）を行う．（配点６０点）<br />(1)と(2)を合計して上記の基準より評価する．６０点以上を合格とする．</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">事前・事後学修等の指示及び履修にあたっての注意事項</div><div style="margin:10px"><p>・高校レベルの数学を理解できること．<br />・レポート作成にあたっては十分な調査を行うこと．</p>
+<p> 論理的に自分で考え,解らないところや自分の意見を積極的に発表する姿勢を望む。 </p>
+<ul>
+<li>事前学習：テキストやMoodle掲載の配布資料の予習（120分）</li>
+<li>事後学習：テキストとMoodle掲載の動画，配布資料を参考に，各自のノートを完成させ，レポート課題を解く。（120分）</li>
+</ul>
+<p> </p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">教科書</div><div style="margin:10px">授業中に教材資料を配布する．<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">参考書</div><div style="margin:10px">授業中に適宜紹介する．<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">オフィスアワー</div><div style="margin:10px"><p>授業（10:30-12:00）の前後とするが、それ以外の学習相談は，事前にメールなどで都合のよい日時を相談すること．場合によっては，TeamsやZoomを使うこともある．</p>
+<p>アポをとってから来ること．<br />前田（<a href="mailto:maeda.kenichi@nitech.ac.jp">maeda.kenichi@nitech.ac.jp</a>／052-735-5497／16 号館232 号室）<br />永田（<a href="mailto:nagata@nitech.ac.jp">nagata@nitech.ac.jp</a>／052-735-5482／25 号館202 号室）</p></div></td></tr></table><p><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p></center>

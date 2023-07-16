@@ -1,0 +1,32 @@
+<center><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p><table border="1" cellspacing="0" bgcolor="white"><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">授業科目名</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;構造シミュレーション<br>&nbsp;&nbsp; Structural Analysis</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">時間割番号</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2701</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">担当教員名</div></td><td><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;野中　哲也 他</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">実務経験<br>反映科目</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px"></div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">学科・年次</div></td><td colspan="3"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;工学部第一部  社会工学科<BR>&nbsp; 工学部第一部  創造工学教育課程<br>&nbsp;&nbsp3年次 </div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">科目区分</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;専門教育科目</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">単位数</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">時間割</div></td><td align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;前期 木曜3-4限</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業形態</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">講義</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業実施方法</div></td><td colspan=3 width="450" align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp&#9745対面&nbsp;&nbsp&#9744オンデマンド&nbsp;&nbsp&#9744同時双方向<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">ディプロマ・ポリシーとの対応</div><div style="margin:10px">&#9744&nbsp1.&nbsp人間，文化，社会を理解し，それらを技術的観点から考察する能力と技術を新しい生活につなぐ強い使命感・責任感，高い倫理観<br>&#9745&nbsp2.&nbsp現象の理解・操作のための数理的基礎知識と科学的素養<br>&#9744&nbsp3.&nbsp国内外の人々と対話できるコミュニケーション力と論理的思考力<br>&#9745&nbsp4.&nbsp（高度工学教育課程のみ）基幹となる専門分野の基盤的な知識・技術とこれによって課題を解決する能力，新たな知識・技術を習得する能力<br>&#9745&nbsp4.&nbsp（創造工学教育課程のみ）基幹となる専門分野の基礎知識と他の分野の知識・技術を関連づけ多面的に見ることで新たな価値を創出する能力<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業の目的・達成目標</div><div style="margin:10px"><p>【授業の目的】</p>
+<p>　有限要素法に関する基礎的な理論および実務への応用について論じる．トラス構造およびラーメン構造に対する有限要素解析の演習を行い，講義内容の理解を深める．</p>
+<p>【達成目標】</p>
+<p>１．有限要素法について基礎的な理論を理解すること．</p>
+<p>２．簡単なトラス構造およびラーメン構造に対して，有限要素法プログラムを用いて解析できるようになること．</p>
+<p>【関連科目】</p>
+<p>「構造力学Ⅰ」「構造力学Ⅱ」において学んだ梁理論を展開させた有限要素法および実務構造計算について本講義で論じる．</p>
+<p>【関連する学習教育目標】</p>
+<p>(C)＜多面的思考と技術者倫理＞人類の文化，社会や自然に関する多面的な思考力を修得し，技術者としての倫理・責任感を身につける．</p>
+<p>(H)＜社会基盤整備の応用技術＞社会基盤の整備に対する基本的理論と応用的な技術を習得する．</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業計画</div><div style="margin:10px"><p>１．ガイダンスおよび梁理論による軸力部材の解析法</p>
+<p>２．軸力部材の解析法(1)および構造解析プログラムの操作法(1)</p>
+<p>３．軸力部材の解析法(2)および構造解析プログラムの操作法(2)</p>
+<p>４．構造解析プログラムを用いた演習１（トラス構造）と演習２（手計算と解析）の解説</p>
+<p>５．演習１の実施</p>
+<p>６．演習２の実施</p>
+<p>７．梁理論による曲げ部材の解析法</p>
+<p>８．有限要素法による梁部材の解析法，演習３（ラーメン構造），演習４（フレーム構造）の解説</p>
+<p>９．演習３の実施</p>
+<p>１０．演習４の実施</p>
+<p>１１．弾塑性力学およびファイバーモデルによる弾塑性有限変位解析法</p>
+<p>１２．解析結果の評価および表示プログラムの操作法，課題公開</p>
+<p>１３．構造解析プログラムを用いた課題レポート実施１</p>
+<p>１４．構造解析プログラムを用いた課題レポート実施２</p>
+<p>１５．課題レポート解説(1)および実務事例研究(1)</p>
+<p>１６．課題レポート解説(2)および実務事例研究(2)</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の方法</div><div style="margin:10px"><p>演習および課題レポートにより評価する．</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の基準</div><div style="margin:10px">秀　 達成目標を超えた成果を上げている　100点～90点<br>優　 達成目標に十分達している　　　　　89点～80点<br>良　 達成目標に達している　　　　　　　79点～70点<br>可　 達成目標に概ね達している　　　　　69点～60点<br>不可 達成目標に達していない　　　　　　59点以下<br><p>演習１，３，４：各10%</p>
+<p>演習２：20%</p>
+<p>課題レポート50%</p>
+<p>により評価を行い，60%以上を合格とする．</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">事前・事後学修等の指示及び履修にあたっての注意事項</div><div style="margin:10px"><p>構造力学Ⅰおよび構造力学Ⅱの基礎学力が必要である．</p>
+<p>事前学修：前回授業の終わりに指示する内容を予習する．</p>
+<p>事後学修：演習，課題を解いて，レポートとしてまとめる．</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">教科書</div><div style="margin:10px"><a href="http://opac.lib.nitech.ac.jp/opc/recordID/catalog.bib/BB15369355" target=_blank>「構造力学」，後藤，小畑，川西，水野，技報堂出版<a><br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">参考書</div><div style="margin:10px"><a href="http://opac.lib.nitech.ac.jp/opc/recordID/catalog.bib/BB04366650" target=_blank>「ファイバーモデルによる弾塑性有限変位解析」，野中，吉野，丸善出版<a><br><a href="http://opac.lib.nitech.ac.jp/opc/recordID/catalog.bib/BA45996426" target=_blank>「骨組の静的・動的・弾塑性解析」，藤谷，藤井，野中，丸善出版<a><br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">オフィスアワー</div><div style="margin:10px"><p>在室のときは，いつでもよい．24号館2階206号室</p>
+<p>メールによるアポイントを受け付ける．メールアドレス：nonaka.tetsuya@nitech.ac.jp</p>
+<p> </p></div></td></tr></table><p><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p></center>

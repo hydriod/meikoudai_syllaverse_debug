@@ -1,0 +1,30 @@
+<center><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p><table border="1" cellspacing="0" bgcolor="white"><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">授業科目名</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;シミュレーション工学<br>&nbsp;&nbsp; Simulation of Physical Phenomena</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">時間割番号</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2457</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">担当教員名</div></td><td><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;尾形　修司 他</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">実務経験<br>反映科目</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px"></div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">学科・年次</div></td><td colspan="3"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;工学部第一部  物理工学科<BR>&nbsp; 工学部第一部  創造工学教育課程<br>&nbsp;&nbsp3年次 </div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">科目区分</div></td><td width="320"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;専門教育科目</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">単位数</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">2</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:6px;margin-bottom:3px">時間割</div></td><td align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp;前期 金曜5-6限</div></td><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業形態</div></td><td width="50" align="center"><div style="margin-top:6px;margin-bottom:3px">講義</div></td></tr><tr><td width="100" align="center" bgcolor="lightsteelblue"><div style="margin-top:7px;margin-bottom:3px">授業実施方法</div></td><td colspan=3 width="450" align="left"><div style="margin-top:6px;margin-bottom:3px">&nbsp;&nbsp&#9745対面&nbsp;&nbsp&#9744オンデマンド&nbsp;&nbsp&#9744同時双方向<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">ディプロマ・ポリシーとの対応</div><div style="margin:10px">&#9744&nbsp1.&nbsp人間，文化，社会を理解し，それらを技術的観点から考察する能力と技術を新しい生活につなぐ強い使命感・責任感，高い倫理観<br>&#9745&nbsp2.&nbsp現象の理解・操作のための数理的基礎知識と科学的素養<br>&#9744&nbsp3.&nbsp国内外の人々と対話できるコミュニケーション力と論理的思考力<br>&#9745&nbsp4.&nbsp（高度工学教育課程のみ）基幹となる専門分野の基盤的な知識・技術とこれによって課題を解決する能力，新たな知識・技術を習得する能力<br>&#9745&nbsp4.&nbsp（創造工学教育課程のみ）基幹となる専門分野の基礎知識と他の分野の知識・技術を関連づけ多面的に見ることで新たな価値を創出する能力<br></div></td></tr><tr><td colspan="4" width="580"><div style="margin:10px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業の目的・達成目標</div><div style="margin:10px"><p>【授業の目的】</p>
+<p>産業界ではマルチスケールな物理学を様々に組み合わせたシミュレーションが様々に行われ，ナノテク・材料・システムの開発に活用されている．本授業では，スパコンを大規模に用いたシミュレーションの実例などを通じて，シミュレーションの有用性を理解する．</p>
+<p>【達成目標】</p>
+<p>１．産業界で重要な諸現象は，マルチスケールな物理学の基礎的方程式により，記述可能であると理解すること．</p>
+<p>２．方程式で記述される物理現象のモデルを，数値的にコンピューターで解く手法の基礎を学ぶこと．</p>
+<p>２．スパコンを活用したシミュレーションの数値結果を可視化する手法を実例から学ぶこと．</p>
+<p>３．コンピュターによる，材料やシステムの設計や解析の現状を理解すること．</p>
+<p>４．対象とする物理量に関するデータ空間での変動を，限られた点数のデータから推定する手法（クリギング法など）を実例から理解すること．</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">授業計画</div><div style="margin:10px"><p> </p>
+<p>１．マルチスケールなシミュレーションの必要性</p>
+<p>２．コンピューターの発展と物理学</p>
+<p>３．分子スケールでのシミュレーションの初期モデルと実演</p>
+<p>４．分子スケールでのシミュレーションで挑む材料研究，その１</p>
+<p>５．分子スケールでのシミュレーションで挑む材料研究，その２</p>
+<p>６．電子スケールでのシミュレーション</p>
+<p>７．空間的補間法としてのクリギング法</p>
+<p>８．流れの科学とシミュレーション</p>
+<p>９．連続体シミュレーションの基礎１</p>
+<p>１０．連続体シミュレーションの基礎２</p>
+<p>１１．流れのシミュレーション入門</p>
+<p>１２．乱流現象とシミュレーション</p>
+<p>１３．乱流による熱物質輸送とシミュレーション</p>
+<p>１４．乱流シミュレーション工学の最前線</p>
+<p>１５．まとめ</p>
+<p> </p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の方法</div><div style="margin:10px"><p>講義を通して課されるレポート課題を100点満点で評価し、合計が６０点以上を合格とする．</p>
+<p> </p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">成績評価の基準</div><div style="margin:10px">秀　 達成目標を超えた成果を上げている　100点～90点<br>優　 達成目標に十分達している　　　　　89点～80点<br>良　 達成目標に達している　　　　　　　79点～70点<br>可　 達成目標に概ね達している　　　　　69点～60点<br>不可 達成目標に達していない　　　　　　59点以下<br><p>各レポートは，課題を理解できていること，論理的に回答が説明されていること，前提となっている仮定が述べられていること，により評価する．</p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">事前・事後学修等の指示及び履修にあたっての注意事項</div><div style="margin:10px"><p>事前学修: Moodleに揚げた資料や動画の予習 (120分)</p>
+<p>事後学修: 講師の説明を聞いて理解したポイントを整理して各自の資料を作成し，命ぜられているレポート課題を回答すること (120 分)</p>
+<p> </p></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">教科書</div><div style="margin:10px">特になし<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">参考書</div><div style="margin:10px">適宜案内する<br></div><div style="margin:20px 3px 3px 3px;padding-top:6px;padding-bottom:3px;padding-left:7px;background-color:lightsteelblue">オフィスアワー</div><div style="margin:10px"><p>以下にメールで予約すること．都合が良い時間帯が選べる．面談が必要な場合，メールにて会合場所を指定する．</p>
+<p>ogata@nitech.ac.jp</p>
+<p>または</p>
+<p>watanabe@nitech.ac.jp</p></div></td></tr></table><p><span style="background-color:#ffffff;"><a href="https://cms7.ict.nitech.ac.jp/moodle40a/syllabus/search.php">検索 に戻る</a></span><p></center>
